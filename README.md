@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fay Balhareth ⭐</h1>
 <h3 align="center">Senior Computer Science Student</h3>
 
-- 🌠 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **Fay3balhareth@gmail.com**
 
